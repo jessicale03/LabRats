@@ -16,7 +16,7 @@ Browse trial listings
 Filter trial listings according to their demographics
 Favorite and save trials they are interested in
 
-# Backend
+**Backend**:
 Implemented with Python, Flask, and SQLite
 Responsibilities and contribution:
 Designed relational database schema and implemented the database tables
@@ -26,7 +26,7 @@ Functions to register new user accounts by updating the database
 Functions to query database to display trial listings, including filtered results according to user specification of age range, sex, alcohol consumption and smoking use, etc
 Incomplete: SupaBase Google Calendar API connection
 
-# Frontend: 
+**Frontend**: 
 Implemented with React.js
 Prior to implementation, created a Figma workflow with color palettes, possible website layouts, and user experience. This design was used to structure the backend in designing the database for form submissions. 
 Responsibilities and contribution:
