@@ -1,7 +1,7 @@
 # LabRats
 A web application to connect Yale research labs and student participants.
 
-# PROJECT GOAL
+# Project Goal
 
 As many research trials offer compensation for participation, there is student demand for research trials. Currently, many departments recruit for their labs' trials via flyers, newsletters, or websites. However, each stream of communication only advertises their respective department's labs, and students who seek opportunities from different departments must subscribe to multiple streams. Lab Rats hopes to centralize the process of seeking trial participation opportunities across Yale's vast departments in one website.
 
@@ -45,7 +45,7 @@ To run our flask, cd into the react/flask-server/venv directory and run the comm
 
 To run the front end program, cd into the react directory and execute npm start. (Note: if node_modules are not available for some reason, please run the following in your terminal: npm install --legacy-peer-deps) 
 
-# NEXT STEPS
+# Next Steps
 The next steps of LabRats is to add more layers and features to further centralize organization and management tools for lab research and outreach. Below are a list of features we hope to implement in the future: 
 
 **Lab managerial account:** A lab account run by the principal investigator to manage researchers and their projects. Additionally, this account will replace the traditional lab website and be viewed by researchers and participants. Researcher accounts can be “subscribed” to this account as a formality of belonging to the particular lab group. 
@@ -58,6 +58,8 @@ Search Available Labs: A second search terminal that is for interested students 
 **Aesthetics:** Improve the overall design aesthetic of the website with a universal design. Search pages should replicate the feeling of scrolling through a searchable instagram feed, where study widgets are similar to physical paper postings graphics. 
 
 
+<img width="943" alt="Screenshot 2024-02-08 at 5 16 25 PM" src="https://github.com/jessicale03/LabRats/assets/106454759/315e314f-1d04-4a64-95bd-52a88057866d">
 
+<img width="952" alt="Screenshot 2024-02-08 at 5 17 32 PM" src="https://github.com/jessicale03/LabRats/assets/106454759/60959b13-6abc-4c14-9adc-b88b5a650349">
 
 
