@@ -1,16 +1,16 @@
 # LabRats
 A web application to connect Yale research labs and student participants.
 
-# GOAL
+# PROJECT GOAL
 
 As many research trials offer compensation for participation, there is student demand for research trials. Currently, many departments recruit for their labs' trials via flyers, newsletters, or websites. However, each stream of communication only advertises their respective department's labs, and students who seek opportunities from different departments must subscribe to multiple streams. Lab Rats hopes to centralize the process of seeking trial participation opportunities across Yale's vast departments in one website.
 
 The Lab Rats workflow offers two account types which are indicated upon registration: researcher and participant.
-# Researcher
+# User 1: Researcher
 Researchers are able to:
 Post trials from their labs
 Indicate what demographics they are seeking for in their participants, such as age range, sex, usage of alcohol or smoking, etc.
-# Participant
+# User 2: Participant
 Participants are able to:
 Browse trial listings
 Filter trial listings according to their demographics
